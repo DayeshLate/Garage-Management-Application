@@ -20,6 +20,7 @@ A customer signs up, verifies their email, and submits a vehicle for service. An
 - Admin dashboard with counts/analytics (active job cards, registered users, etc.)
 - Frontend has a demo mode with mock accounts, so you can look around the UI without running the backend at all
 
+
 ## Tech stack
 
 **Backend:** Java 21, Spring Boot 4, Spring Security + JWT, Spring Data JPA, PostgreSQL (H2 for local runs), Lombok, Maven
@@ -100,3 +101,5 @@ These are hardcoded on the frontend for quick demos. Point `VITE_API_URL` at a r
 
 ---
 Built by Dayesh Late. Portfolio: dayeshlate-portfolio.vercel.app
+
+Now we are makig this application as a microservice

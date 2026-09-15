@@ -10,6 +10,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
@@ -17,9 +18,7 @@ import lombok.NoArgsConstructor;
 public class JobCardDTO {
     
     private Long id;
-
     private JobStatus JobStatus;
-
     private Long Vehicle_id;
     private String vehicleNumber;
     private String vehicleBrand;
