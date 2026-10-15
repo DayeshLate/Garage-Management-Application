@@ -211,6 +211,30 @@ Admin routes are restricted to `ADMIN`, with a few shared with `MECHANIC`. All p
 - [ ] Swagger / OpenAPI documentation
 
 ---
+##  Admin 
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/3ca59b22-1b1a-47fd-b31b-e2c6cbf7729f" />
+    -customers
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/ccd0371d-972c-4822-897f-46ecc669b2e1" />
+    -vehicles
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/06b693d8-997b-4de5-9e88-8af3bad230f6" />
+    -jobcard
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/e1703b58-b97d-45a1-a275-f2480b0d73dd" />
+    - Inventary
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/d6d257a0-3811-4b0b-b984-f3b4868b0ecb" />
+    -Billing 
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/97f2a3fa-af4a-450b-9a07-a7ee723c0d37" />
+    - Report
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/5cf94c59-3ba4-4ea1-9a18-3e767cd8b05d" />
+
+## User
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/0338470c-642f-4110-8fef-0b7e47a05181" />
+    -Track service
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/3998dbb2-24ac-4f0e-8e50-4bf0bf66b9b4" />
+    -My Vehicles
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/a10a869b-c44d-4d48-a848-9f2cc19443ac" />
+    -my invoice
+    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/52a81a08-30fa-466e-b637-846786bb33c3" />
+
 
 ## 🤝 Contributing
 
