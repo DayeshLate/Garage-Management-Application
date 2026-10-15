@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[**Live Demo**](https://garage-management-application.vercel.app) · [Features](#-features) · [Getting Started](#-getting-started) · [API](#-api-overview)
+[**Live Demo**](https://garage-management-application.vercel.app) · [Features](#-features) · [Screenshots](#-application-screenshots) · [How to Use](#-how-to-use) · [Getting Started](#-getting-started) · [API](#-api-overview)
 
 </div>
 
@@ -211,30 +211,110 @@ Admin routes are restricted to `ADMIN`, with a few shared with `MECHANIC`. All p
 - [ ] Swagger / OpenAPI documentation
 
 ---
-##  Admin 
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/3ca59b22-1b1a-47fd-b31b-e2c6cbf7729f" />
-    -customers
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/ccd0371d-972c-4822-897f-46ecc669b2e1" />
-    -vehicles
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/06b693d8-997b-4de5-9e88-8af3bad230f6" />
-    -jobcard
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/e1703b58-b97d-45a1-a275-f2480b0d73dd" />
-    - Inventary
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/d6d257a0-3811-4b0b-b984-f3b4868b0ecb" />
-    -Billing 
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/97f2a3fa-af4a-450b-9a07-a7ee723c0d37" />
-    - Report
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/5cf94c59-3ba4-4ea1-9a18-3e767cd8b05d" />
 
-## User
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/0338470c-642f-4110-8fef-0b7e47a05181" />
-    -Track service
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/3998dbb2-24ac-4f0e-8e50-4bf0bf66b9b4" />
-    -My Vehicles
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/a10a869b-c44d-4d48-a848-9f2cc19443ac" />
-    -my invoice
-    <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/52a81a08-30fa-466e-b637-846786bb33c3" />
+## 🖼 Application Screenshots
 
+Live app: **https://garage-management-application.vercel.app**
+
+### 🛡 Admin Panel
+
+#### Dashboard
+<p align="center">
+  <img width="900" alt="Admin dashboard" src="https://github.com/user-attachments/assets/3ca59b22-1b1a-47fd-b31b-e2c6cbf7729f" />
+</p>
+
+#### Customers
+<p align="center">
+  <img width="900" alt="Admin customers page" src="https://github.com/user-attachments/assets/ccd0371d-972c-4822-897f-46ecc669b2e1" />
+</p>
+
+#### Vehicles
+<p align="center">
+  <img width="900" alt="Admin vehicles page" src="https://github.com/user-attachments/assets/06b693d8-997b-4de5-9e88-8af3bad230f6" />
+</p>
+
+#### Job Cards
+<p align="center">
+  <img width="900" alt="Admin job cards page" src="https://github.com/user-attachments/assets/e1703b58-b97d-45a1-a275-f2480b0d73dd" />
+</p>
+
+#### Inventory
+<p align="center">
+  <img width="900" alt="Admin inventory page" src="https://github.com/user-attachments/assets/d6d257a0-3811-4b0b-b984-f3b4868b0ecb" />
+</p>
+
+#### Billing
+<p align="center">
+  <img width="900" alt="Admin billing page" src="https://github.com/user-attachments/assets/97f2a3fa-af4a-450b-9a07-a7ee723c0d37" />
+</p>
+
+#### Reports
+<p align="center">
+  <img width="900" alt="Admin reports page" src="https://github.com/user-attachments/assets/5cf94c59-3ba4-4ea1-9a18-3e767cd8b05d" />
+</p>
+
+### 👤 User Panel
+
+#### Dashboard
+<p align="center">
+  <img width="900" alt="User dashboard" src="https://github.com/user-attachments/assets/0338470c-642f-4110-8fef-0b7e47a05181" />
+</p>
+
+#### Track Service
+<p align="center">
+  <img width="900" alt="User track service page" src="https://github.com/user-attachments/assets/3998dbb2-24ac-4f0e-8e50-4bf0bf66b9b4" />
+</p>
+
+#### My Vehicles
+<p align="center">
+  <img width="900" alt="User vehicles page" src="https://github.com/user-attachments/assets/a10a869b-c44d-4d48-a848-9f2cc19443ac" />
+</p>
+
+#### My Invoices
+<p align="center">
+  <img width="900" alt="User invoices page" src="https://github.com/user-attachments/assets/52a81a08-30fa-466e-b637-846786bb33c3" />
+</p>
+
+---
+
+## 📘 How to Use
+
+### 👤 For Users (Customers)
+
+1. **Open the app** at [garage-management-application.vercel.app](https://garage-management-application.vercel.app).
+2. **Sign up** with your name, email and password.
+3. **Activate your account** by clicking the link in the verification email.
+4. **Log in** with your email and password.
+5. **Add your vehicle** from **My Vehicles**: enter the vehicle details and the service you need.
+6. **Wait for approval.** Your vehicle stays pending until an admin approves or rejects it.
+7. **Track your service** from **Track Service**: follow the job card through `Arrived → In service → Waiting for parts → Completed → Delivered`.
+8. **View your invoice** in **My Invoices** when the work is done: spare parts, labor, tax and total.
+9. **Pay at the garage.** The admin marks the bill as paid, and the updated status shows in your invoices.
+
+> 💡 Just exploring? Log in with `user@garage.com` / `user123` to try the UI in demo mode.
+
+### 🛡 For Admins
+
+1. **Log in** with an admin account (demo: `admin@garage.com` / `admin123`).
+2. **Check the dashboard** for active job cards, registered users and other counts.
+3. **Browse Customers** to see everyone registered with the garage.
+4. **Review vehicle requests** in **Vehicles**: filter by status, then **approve** or **reject** each pending request.
+5. **Manage Job Cards.** Approved vehicles get a job card. Open it and update the status as work progresses.
+6. **Maintain the Inventory.** Add, edit or remove spare parts so stock stays accurate.
+7. **Attach parts and charges** to the job card: choose the parts used and add labor charges.
+8. **Generate the bill** in **Billing**. The total is spare part cost + labor + tax.
+9. **Mark the bill as paid** once the customer settles up.
+10. **Open Reports** to review overall garage activity.
+
+### 🔧 For Mechanics
+
+1. Log in with a mechanic account.
+2. Open your assigned job cards.
+3. Update the status as you work (for example, `In service` or `Waiting for parts`).
+4. Attach the spare parts used and the labor charges.
+5. Mark the job as `Completed` so the admin can generate the bill.
+
+---
 
 ## 🤝 Contributing
 
