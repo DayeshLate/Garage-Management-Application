@@ -21,7 +21,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./Screenshot%202026-02-02%20230055.png" alt="Garage Management Application: Job Cards" width="900" />
+  <img src="./docs/screenshots/admin-job-cards.png" alt="Garage Management Application: Job Cards" width="900" />
 </p>
 
 > 🌐 Try it live: **https://garage-management-application.vercel.app**
@@ -220,59 +220,59 @@ Live app: **https://garage-management-application.vercel.app**
 
 #### Dashboard
 <p align="center">
-  <img width="900" alt="Admin dashboard" src="https://github.com/user-attachments/assets/3ca59b22-1b1a-47fd-b31b-e2c6cbf7729f" />
+  <img width="900" alt="Admin dashboard" src="./docs/screenshots/admin-dashboard.png" />
 </p>
 
 #### Customers
 <p align="center">
-  <img width="900" alt="Admin customers page" src="https://github.com/user-attachments/assets/ccd0371d-972c-4822-897f-46ecc669b2e1" />
+  <img width="900" alt="Admin customers page" src="./docs/screenshots/admin-customers.png" />
 </p>
 
 #### Vehicles
 <p align="center">
-  <img width="900" alt="Admin vehicles page" src="https://github.com/user-attachments/assets/06b693d8-997b-4de5-9e88-8af3bad230f6" />
+  <img width="900" alt="Admin vehicles page" src="./docs/screenshots/admin-vehicles.png" />
 </p>
 
 #### Job Cards
 <p align="center">
-  <img width="900" alt="Admin job cards page" src="https://github.com/user-attachments/assets/e1703b58-b97d-45a1-a275-f2480b0d73dd" />
+  <img width="900" alt="Admin job cards page" src="./docs/screenshots/admin-job-cards.png" />
 </p>
 
 #### Inventory
 <p align="center">
-  <img width="900" alt="Admin inventory page" src="https://github.com/user-attachments/assets/d6d257a0-3811-4b0b-b984-f3b4868b0ecb" />
+  <img width="900" alt="Admin inventory page" src="./docs/screenshots/admin-inventory.png" />
 </p>
 
 #### Billing
 <p align="center">
-  <img width="900" alt="Admin billing page" src="https://github.com/user-attachments/assets/97f2a3fa-af4a-450b-9a07-a7ee723c0d37" />
+  <img width="900" alt="Admin billing page" src="./docs/screenshots/admin-billing.png" />
 </p>
 
 #### Reports
 <p align="center">
-  <img width="900" alt="Admin reports page" src="https://github.com/user-attachments/assets/5cf94c59-3ba4-4ea1-9a18-3e767cd8b05d" />
+  <img width="900" alt="Admin reports page" src="./docs/screenshots/admin-reports.png" />
 </p>
 
 ### 👤 User Panel
 
 #### Dashboard
 <p align="center">
-  <img width="900" alt="User dashboard" src="https://github.com/user-attachments/assets/0338470c-642f-4110-8fef-0b7e47a05181" />
+  <img width="900" alt="User dashboard" src="./docs/screenshots/user-dashboard.png" />
 </p>
 
 #### Track Service
 <p align="center">
-  <img width="900" alt="User track service page" src="https://github.com/user-attachments/assets/3998dbb2-24ac-4f0e-8e50-4bf0bf66b9b4" />
+  <img width="900" alt="User track service page" src="./docs/screenshots/user-track-service.png" />
 </p>
 
 #### My Vehicles
 <p align="center">
-  <img width="900" alt="User vehicles page" src="https://github.com/user-attachments/assets/a10a869b-c44d-4d48-a848-9f2cc19443ac" />
+  <img width="900" alt="User vehicles page" src="./docs/screenshots/user-my-vehicles.png" />
 </p>
 
 #### My Invoices
 <p align="center">
-  <img width="900" alt="User invoices page" src="https://github.com/user-attachments/assets/52a81a08-30fa-466e-b637-846786bb33c3" />
+  <img width="900" alt="User invoices page" src="./docs/screenshots/user-my-invoices.png" />
 </p>
 
 ---
